@@ -21,7 +21,7 @@ class Solution {
             }
 
             result += intermediate_profit;
-            
+
         }
 
         return result;
