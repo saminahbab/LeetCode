@@ -13,6 +13,8 @@ public class validParentheses {
     Open brackets must be closed in the correct order.
     Note that an empty string is also considered valid.
 
+    // FASTER THAN 62% OF ONLINE LEETCODE
+    // USES LOWEST SPACE
 
      */
     public static boolean isValid(String s) {
