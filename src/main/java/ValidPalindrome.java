@@ -2,7 +2,7 @@ public class ValidPalindrome {
 
     public static boolean isPalindrome(String s){
 
-        if (s.length() <2) return true;
+        if (s.length() <2){return true;}
 
         //initialise pointers;
         int pointer_left = 0;
