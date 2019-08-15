@@ -6,7 +6,9 @@ public class NeedleHaystack {
     needle in haystack, or -1 if needle is not part of haystack.
 
     //FASTER THAN 52% of all submissions
-    88% on memory 
+    88% on memory
+
+    // TODO: SHORTEN THIS TO NESTED FOR LOOP
      */
 
     public static int strStr(String haystack, String needle) {
