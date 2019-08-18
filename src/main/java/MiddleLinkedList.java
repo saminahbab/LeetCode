@@ -1,5 +1,6 @@
 public class MiddleLinkedList {
 
+    
     public class ListNode {
     int val;
     ListNode next;
